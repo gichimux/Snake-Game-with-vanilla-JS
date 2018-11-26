@@ -1,13 +1,14 @@
 h1, p {
-font-family: 'Sedgwick Ave', cursive;
+  font-family: 'Black Han Sans', sans-serif;
 text-align: center;
 color: #FCE341;
 }
 
 
 body {background-color: #669;}
+
 #parent {
-margin-left: 400px;
+display: inline-block;
 
 }
 
@@ -15,4 +16,5 @@ margin-left: 400px;
 background-color: #222;
 border: 1px solid #FCE341;
 border-radius: 50%;
+text-align: center;
 }
